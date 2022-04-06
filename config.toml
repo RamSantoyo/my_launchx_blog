@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://ramsess.xyz"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje Ramsess Santoyo"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
