@@ -1,4 +1,4 @@
-baseURL = "https://ramsantoyo.xyz/my_launchx_blog/"
+baseURL = "https://ramsantoyo.github.io/my_launchx_blog/"
 languageCode = "en-us"
 title = "Bitácora de Viaje Ramsess Santoyo"
 theme = "hugo-winston-theme"
